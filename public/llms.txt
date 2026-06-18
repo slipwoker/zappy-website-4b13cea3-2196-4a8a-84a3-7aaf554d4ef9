@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://ronex-4b13cea3.zappy5.app
+https://example.com
 חנות הגיימינג המובילה עם ציוד ואקססוריז שמשדרגים כל חוויית משחק. עיצוב חדשני, ניווט קליל ומבחר מוצרי פרימיום מחכים לך. היכנס עכשיו ל-Ronex וגלה את עולם הגיימינג האמיתי.
 
 ### מדריך קטגוריות
-https://ronex-4b13cea3.zappy5.app/category-guide
+https://example.com/category-guide
 מחפש את הציוד המושלם? מדריך הקטגוריות של Ronex עוזר לך לבחור בקלות בין מסכים, מקלדות, אוזניות ועוד. גלישה חכמה, תוצאות מדויקות – תתחיל לחקור עכשיו.
 
 ### יומן התקנות
-https://ronex-4b13cea3.zappy5.app/setup-journal
+https://example.com/setup-journal
 השראה יומית לעמדות גיימינג מעוצבות! ביומן ההתקנות של Ronex תמצא טיפים, תמונות וסיפורים על סט-אפים שוברי שגרה. שתף גם את שלך והפוך לאגדה.
 
 ### אודות
-https://ronex-4b13cea3.zappy5.app/about
+https://example.com/about
 Ronex נולדה מאהבה אמיתית לגיימינג. אנחנו מביאים לך חוויית קנייה אסתטית, מהירה ומדויקת עם דגש על איכות ועיצוב. קרא עוד על החזון שלנו והצטרף למהפכה.
 
 ### צור קשר
-https://ronex-4b13cea3.zappy5.app/contact
+https://example.com/contact
 צריך עזרה בבחירת ציוד או סתם רוצה להגיד היי? צוות Ronex זמין לכל שאלה, בקשה או רעיון. מלא את הפרטים ונחזור אליך במהירות עם חיוך של גיימר אמיתי.
 
 ### Products
-https://ronex-4b13cea3.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Ronex
 
 ### Cart
-https://ronex-4b13cea3.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://ronex-4b13cea3.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://ronex-4b13cea3.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://ronex-4b13cea3.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://ronex-4b13cea3.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://ronex-4b13cea3.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Ronex
 
 ### Category
-https://ronex-4b13cea3.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Ronex
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ronex-4b13cea3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ronex-4b13cea3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ronex-4b13cea3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ronex-4b13cea3.zappy5.app/sitemap.xml
-- Robots: https://ronex-4b13cea3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ronex-4b13cea3.zappy5.app/llms-full.txt
-- Products (JSON): https://ronex-4b13cea3.zappy5.app/products.json
-- Products (Google Merchant RSS): https://ronex-4b13cea3.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
