@@ -1,0 +1,105 @@
+# Ronex — Generative Engine Optimization Map
+
+> A modern and visually appealing online gaming products store featuring organized product categories. The brand targets gamers and aims to deliver a sleek, contemporary shopping experience with a strong focus on aesthetics and easy navigation through gaming gear and accessories.
+
+---
+
+## Pages
+
+### בית
+https://ronex-4b13cea3.zappy5.app
+חנות הגיימינג המובילה עם ציוד ואקססוריז שמשדרגים כל חוויית משחק. עיצוב חדשני, ניווט קליל ומבחר מוצרי פרימיום מחכים לך. היכנס עכשיו ל-Ronex וגלה את עולם הגיימינג האמיתי.
+
+### מדריך קטגוריות
+https://ronex-4b13cea3.zappy5.app/category-guide
+מחפש את הציוד המושלם? מדריך הקטגוריות של Ronex עוזר לך לבחור בקלות בין מסכים, מקלדות, אוזניות ועוד. גלישה חכמה, תוצאות מדויקות – תתחיל לחקור עכשיו.
+
+### יומן התקנות
+https://ronex-4b13cea3.zappy5.app/setup-journal
+השראה יומית לעמדות גיימינג מעוצבות! ביומן ההתקנות של Ronex תמצא טיפים, תמונות וסיפורים על סט-אפים שוברי שגרה. שתף גם את שלך והפוך לאגדה.
+
+### אודות
+https://ronex-4b13cea3.zappy5.app/about
+Ronex נולדה מאהבה אמיתית לגיימינג. אנחנו מביאים לך חוויית קנייה אסתטית, מהירה ומדויקת עם דגש על איכות ועיצוב. קרא עוד על החזון שלנו והצטרף למהפכה.
+
+### צור קשר
+https://ronex-4b13cea3.zappy5.app/contact
+צריך עזרה בבחירת ציוד או סתם רוצה להגיד היי? צוות Ronex זמין לכל שאלה, בקשה או רעיון. מלא את הפרטים ונחזור אליך במהירות עם חיוך של גיימר אמיתי.
+
+### Products
+https://ronex-4b13cea3.zappy5.app/products
+המוצרים שלנו - Ronex
+
+### Cart
+https://ronex-4b13cea3.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ronex-4b13cea3.zappy5.app/checkout
+תשלום
+
+### Login
+https://ronex-4b13cea3.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ronex-4b13cea3.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ronex-4b13cea3.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ronex-4b13cea3.zappy5.app/product/:slug
+פרטי המוצר - Ronex
+
+### Category
+https://ronex-4b13cea3.zappy5.app/category/:slug
+מוצרים - Ronex
+
+## Legal & Policy
+
+### Privacy Policy
+https://ronex-4b13cea3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ronex-4b13cea3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ronex-4b13cea3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ronex
+A modern and visually appealing online gaming products store featuring organized product categories. The brand targets gamers and aims to deliver a sleek, contemporary shopping experience with a strong focus on aesthetics and easy navigation through gaming gear and accessories.
+
+## Target Audience
+- גיימרים
+- גיימרים כבדים
+- סטרימרים ויוצרים
+- גיימרים מזדמנים
+
+## Industry
+Gaming E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ronex-4b13cea3.zappy5.app/sitemap.xml
+- Robots: https://ronex-4b13cea3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ronex-4b13cea3.zappy5.app/llms-full.txt
+- Products (JSON): https://ronex-4b13cea3.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ronex-4b13cea3.zappy5.app/product-feed.xml
